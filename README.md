@@ -50,21 +50,12 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasshqa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
 <img align="right" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVlaWl0MjN4czVjYTFkbHQydm1naTkwNHdiaGEzaTRnMWFnZHE3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tqfS3mgQU28ko/giphy.gif"  />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31wrp2isy6ukh463hum7pkioxwem">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wrp2isy6ukh463hum7pkioxwem&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
