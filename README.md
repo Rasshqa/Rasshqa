@@ -61,14 +61,6 @@
   <strong style="font-size: 1.25em;">Featured Projects</strong>
 </p>
 
-> *Catatan untuk Rashqa: Ganti daftar di bawah ini dengan 2-4 proyek terbaik Anda. Hapus bagian kutipan ini setelah diedit.*
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[Nama Proyek 1]** | Sistem manajemen / aplikasi web untuk [jelaskan fungsi singkat proyek dalam 1 kalimat]. | `Laravel` `React` `Tailwind` | [Repo](https://github.com/Rasshqa) • [Demo](#) |
-| **[Nama Proyek 2]** | Dashboard interaktif atau aplikasi berbasis web untuk [jelaskan fungsi singkat proyek]. | `TypeScript` `React` `API` | [Repo](https://github.com/Rasshqa) • [Demo](#) |
-
----
 
 ### 
 <p align="center">
